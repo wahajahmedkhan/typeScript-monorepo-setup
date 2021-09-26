@@ -9,9 +9,8 @@ _npm install -g nx_
 Now use NX to create a workspace. Use a pre-set of **Angular**. This will make an angular app for our Frontend
 
 
-<p style="text-align: center;"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="450"></p>
+<p style="text-align: center;"><img src="https://raw.githubusercontent.com/wahajahmedkhan/typeScript-monorepo-setup/master/doc/img.png" width="450"></p>
 
-🔎 **Smart, Extensible Build Framework**
 
 ## Quick Start & Documentation
 
